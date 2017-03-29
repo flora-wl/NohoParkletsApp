@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

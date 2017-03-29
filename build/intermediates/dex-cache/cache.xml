@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_be0245597a67ee9135943a4e83b816bd3afc27f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_0772225dc7914305b349c6bbd8347b1810558e4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.1_a1284aa22151c9199cd9998057c7f50641bec4d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_4bc20f49c25a66a5d9b074699a30112eb643d2b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_13bb14f42e511a769a41d8aecc460df7df91cbf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.2.1_35a3f55530e5c0927b82844808d535b6bf51d136.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_b4b06c0b4559c919660df7a0276e473bd36cc866.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.1_cc8bfb3e8446f5d07b7e6d3a377504730ea4f604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_e8b21f5dbda8fa745ef46f0ad91dfbcd24fb7170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.1_9696374f882cf4561b0d6cc1e14139daeacdd7b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_ba63e1d94ef23fc5a828bd3d977586179deb298f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_9eebfd8573a4c5d31b7394af330e8d80203fe3b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.1_c7c95e42786d2047f3b66a996d60dd99be690ca4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_9b6c1821e89890f67f3ffb25a2b7c609961d0630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_879b1ee38e0b7fdd12456be741b73d7241583f18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_e65b87fedb115c5eb5d8b4cc2a06d48570f41b40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/ARSimpleNativeCarsProj/aRBaseLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3316e78e65198d348371cab9d4895b313fc6e0f6">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/ARSimpleNativeCarsProj-aRBaseLib-unspecified_cee09c98ca71438348e043e6e73e5a5398ddddc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/flora/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_caea69c14d367c3a8c9b068a0dfbe515b5c7829c.jar" />
+    </item>
+
+</items>

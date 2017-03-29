@@ -1,0 +1,45 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion = 24
+    buildToolsVersion = "24.0.3"
+
+    defaultConfig {
+        applicationId = "org.artoolkit.ar.samples.ARSimpleNativeCars"
+        minSdkVersion 15
+        targetSdkVersion 24
+        multiDexEnabled false
+        versionCode = 24000
+        // Integer type incremented by 1 for every release, major or minor, to Google store
+        versionName = "24.0" // Real fully qualified major and minor release description
+
+        buildTypes {
+            release {
+                shrinkResources false
+                minifyEnabled false
+                proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            }
+        }
+
+        ndk {
+            moduleName = "ARSimpleNativeCars"
+        }
+    }
+
+    sourceSets.main {
+        jni.srcDirs = []
+        jniLibs.srcDir 'src/main/libs'
+    }
+}
+
+
+
+dependencies {
+    //compile 'com.android.support:support-v4:23.0.1'   // Only required when the target device API level is greater than
+    //compile 'com.android.support:appcompat-v7:23.0.1' // the compile and target of the app being deployed to the device
+    compile project(':aRBaseLib')
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.android.support:design:24.2.1'
+    compile 'com.google.android.gms:play-services-maps:10.2.1'
+    compile 'com.google.android.gms:play-services-location:10.2.1'
+}

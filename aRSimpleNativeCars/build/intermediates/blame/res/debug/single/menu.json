@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/res/merged/debug/menu/options.xml",
+        "source": "/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/ARSimpleNativeCarsProj/aRBaseLib/unspecified/res/menu/options.xml"
+    },
+    {
+        "merged": "/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/res/merged/debug/menu/menu_device_list.xml",
+        "source": "/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/src/main/res/menu/menu_device_list.xml"
+    }
+]

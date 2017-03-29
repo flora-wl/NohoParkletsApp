@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_info"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="129dp"
+        android:id="@+id/topbarimage"
+        android:src="@drawable/background8"
+        android:layout_weight="0.17" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/topbarimage"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:id="@+id/layout1"
+        >
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="About NohoParklets"
+            android:textColor="#808080"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_vertical_margin"
+            android:layout_marginTop="13dp" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/logoinfo"
+            android:src="@drawable/logo"
+            android:layout_weight="0.17"
+            />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/layout1"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/layout2"
+            >
+
+
+            <TextView
+                android:id="@+id/Summary"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Summary"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:paddingBottom="5dp"
+                android:textSize="17sp"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_vertical_margin"
+                android:layout_below="@+id/textView1"
+                android:layout_marginRight="13dp"
+                android:layout_marginTop="21dp" />
+
+            <TextView
+                android:id="@+id/SummaryText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/info_summary"
+                android:textColor="#696969"
+                android:textSize="12sp"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_vertical_margin"
+                android:layout_marginRight="13dp" />
+
+            <TextView
+                android:id="@+id/DC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Engineering Capstone Project"
+                android:paddingBottom="5dp"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:textSize="17sp"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_vertical_margin"
+                android:layout_below="@+id/SummaryText"
+                android:layout_marginRight="13dp"
+                android:layout_marginTop="21dp" />
+
+            <TextView
+                android:id="@+id/DCText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/info_DC"
+                android:textColor="#696969"
+                android:textSize="12sp"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_vertical_margin"
+                android:layout_marginRight="13dp"
+                android:layout_below="@+id/DC" />
+
+
+            <TextView
+                android:id="@+id/Contact"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Contact"
+                android:paddingBottom="5dp"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:textSize="17sp"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_vertical_margin"
+                android:layout_below="@+id/DCText"
+                android:layout_marginRight="13dp"
+                android:layout_marginTop="21dp" />
+
+            <TextView
+                android:id="@+id/ContactText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/info_contact"
+                android:textColor="#696969"
+                android:textSize="12sp"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingBottom="40dp"
+                android:layout_marginRight="13dp"
+                android:layout_below="@+id/Contact" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

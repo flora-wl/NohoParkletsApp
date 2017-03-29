@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_data"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/background4">
+
+
+    <Button
+        android:text="Disconnect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button4"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/arduino_data2"
+        android:text = " "
+        android:textColor="#D3D3D3"
+        android:textSize="14dp"
+        android:layout_alignTop="@+id/lights"
+        android:layout_toRightOf="@+id/lights" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/circle"
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="12dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/arduino_data"
+        android:text = " "
+        android:textColor="#D3D3D3"
+        android:textSize="14dp"
+        android:layout_marginBottom="226dp"
+        android:layout_above="@+id/button4"
+        android:layout_toLeftOf="@+id/arduino_data2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lights"
+        android:text = "Smartlights: "
+        android:textSize="17dp"
+        android:textColor="@color/colorWhite"
+        android:layout_marginTop="32dp"
+        android:layout_below="@+id/visitors"
+        android:layout_alignLeft="@+id/visitors" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/visitors"
+        android:text = "Visitors: "
+        android:textSize="17dp"
+        android:textColor="@color/colorWhite"
+        android:layout_alignBottom="@+id/arduino_data"
+        android:layout_alignLeft="@+id/location_parklet2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/location_parklet2"
+        android:text = "Cracker Barrel Alley"
+        android:textStyle="italic"
+        android:textSize="14dp"
+        android:textColor="#D3D3D3"
+        android:layout_marginBottom="8dp"
+        android:layout_above="@+id/arduino_data"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/location_parklet"
+        android:text = "Location:    "
+        android:textSize="17dp"
+        android:textColor="@color/colorWhite"
+        android:layout_above="@+id/location_parklet2"
+        android:layout_alignLeft="@+id/location_parklet2" />
+</RelativeLayout>

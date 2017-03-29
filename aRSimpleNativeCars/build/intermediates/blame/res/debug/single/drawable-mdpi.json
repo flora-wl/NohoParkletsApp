@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/flora/Downloads/artoolkit5-master/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

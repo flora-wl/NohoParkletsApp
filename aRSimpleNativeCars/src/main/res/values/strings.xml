@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ARSimpleNativeCarsActivity!</string>
+    <string name="app_name">NohoParklets</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="info_summary">NohoParklets helps you connect with Northampton and its new parklet project, by allowing you to visualize and follow its ongoing development. \n \nCreated by Flora Weil, a Smith engineering student, NohoParklets is a location-based notification platform, which can help members of the community directly take part in the new projects of their city. The App functions include: \n
+- An interactive map view of potential parklet locations.\n
+- A smart-parklet controller, giving data collected from the mobile parklet.\n
+- A location-based sharing platform for you to give your input on parklet design ideas. "</string>
+    <string name="info_contact">" Flora Weil \n App Developer \n fweil@smith.edu \n 413-406-0477 \n \n Susannah Howe\n Engineering Design Clinic Director \n showe@smith.edu"</string>
+    <string name="info_DC">The context for this Android App is a senior Design Clinic project involving the design of a mobile parklet in downtown Northampton. Parklets or small public parks, are a recent phenomenon rooted in public space design and urban planning. They involve the transformation of underused urban spaces and roads into places where community members have the ability to relax and engage in public life. \n \nAs part of this social movement to rehabilitate cities, the Northampton Office of Planning and Sustainability aims to create parklets in various locations. A mobile modular parklet has been chosen by a cross-disciplinary team of senior Smith students as a tool for evaluating potential permanent parklet installations. </string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="comment">""This is an interesting idea! \nI like the idea of making the city \nmore sustainable."\n\n- Sent at 5:17PM on Feb 20, 2017</string>
+    <string name="notification_text">"Here are some of our design ideas \nfor the Northampton mobile parklet: </string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
